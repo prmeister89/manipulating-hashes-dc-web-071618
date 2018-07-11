@@ -7,11 +7,8 @@ def second_challenge
   }
 
 
-groceries.each do |food_type, food|
-  food.flatten
-end
 
-groceries.vaules
+groceries.vaules.flatten
 
 
 
