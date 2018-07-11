@@ -7,9 +7,9 @@ def second_challenge
   }
 
 
-
-groceries.vaules.flatten
-
+new_array = []
+new_array << groceries.vaules
+new_array.flatten
 
 
 
